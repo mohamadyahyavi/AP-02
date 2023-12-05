@@ -13,7 +13,8 @@ richard = Employee("Richard Roe", salary=110000, height=178)
 giancarlo = Employee("Giancarlo Rossi", salary=115000, height=182, nationality="Italian")
 
 print(john.firstname)
-print(mary.lastname) 
+print(mary.lastname)
+print(giancarlo.nationality)   
 print(richard.height)
-print(giancarlo.nationality)            
+          
 
